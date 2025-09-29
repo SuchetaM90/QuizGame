@@ -1,7 +1,7 @@
 body{
     margin:0;
     padding: 0;
-    background-image: url("/multimedia/background.jpg");
+    background-image: url("multimedia/background.jpg");
     font-family:Arial, Helvetica, sans-serif ;
     display:flex;
     flex-direction: column;
@@ -63,4 +63,5 @@ h1{
   margin: 5px;
   padding: 5px;
   align-self: center;
+
 }
