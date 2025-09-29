@@ -8,20 +8,20 @@ body{
 }
 
 h1{
-    margin: 5px;
-    padding: 5px;
-    border: 3px solid black;
-    border-radius: 3px;
+    margin: 5 px;
+    padding: 5 px;
+    border: 3 px solid black;
+    border-radius: 3 px;
     text-align: center;
     font-style: oblique;
 
 }
 
 #question{
-    margin: 5px;
-    padding:5px;
-    border:2px solid purple;
-    border-radius: 3px;
+    margin: 5 px;
+    padding:5 px;
+    border:2 px solid purple;
+    border-radius: 3 px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,6 +65,7 @@ h1{
   align-self: center;
 
 }
+
 
 
 
